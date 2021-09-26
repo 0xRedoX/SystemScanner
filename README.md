@@ -7,4 +7,4 @@
 
  # Note
   1. This application only propperly on Windows,Linux(Except Ubuntu).
-  2. We will update it to run on various Linux-Based system and ubuntu as well.
+  2. We will update it to run on various Linux-Based Platforms/Systems and Ubuntu Systems as well.
